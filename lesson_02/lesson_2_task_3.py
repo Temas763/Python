@@ -5,4 +5,4 @@ def square(side):
     return int(area)
 
 
-print(square(5))
+print(square(5.2))
